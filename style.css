@@ -1,0 +1,17 @@
+body{
+    background-color:#CCCCCC;
+}
+
+.titulo{
+    font: size 40px;
+    color:red
+}
+
+.moto_header{
+    width: 20px;
+    border:radius 10px;
+}
+
+.moto{
+    width: 50% ;
+}
